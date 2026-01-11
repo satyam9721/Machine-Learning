@@ -1,4 +1,4 @@
-#code is wriiten in jupter block one by one also Iris.csv file prsent in same directory
+#code is wriiten in jupter block one by one also Iris.csv file prsent in same directory, create below contains in this file "decision_tree.ipynb"
 
 #1
 import numpy as np
