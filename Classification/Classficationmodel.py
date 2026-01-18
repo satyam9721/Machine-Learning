@@ -1,5 +1,12 @@
 #start
 #install dependincies then execute line by line cells in juypter, used `iris date set`.
+this below features are avl in our code.
+#✔ Supervised ML Classification Model
+#✔ Random Forest Ensemble
+#✔ Feature importance
+#✔ Probability prediction
+#✔ Train/Test evaluation
+#✔ Accuracy metric
 
 Building a Classification Model for the Iris data set
 
