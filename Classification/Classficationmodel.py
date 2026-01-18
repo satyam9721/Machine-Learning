@@ -1,5 +1,5 @@
 #start
-#install dependincies then execute line by line cells in juypter
+#install dependincies then execute line by line cells in juypter, used `iris date set`.
 
 Building a Classification Model for the Iris data set
 
